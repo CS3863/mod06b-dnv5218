@@ -123,11 +123,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &114784398 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1438005526601618311, guid: 394b85fd613cc87478693ae9f5470e4c, type: 3}
-  m_PrefabInstance: {fileID: 1438005526514641673}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &170076733
 GameObject:
   m_ObjectHideFlags: 0
@@ -305,11 +300,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 425805626}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &429222094 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 866378991797977343, guid: 2f28d0b399b079b4894771c4f5bfd172, type: 3}
-  m_PrefabInstance: {fileID: 866378991939856433}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &475985833
 GameObject:
   m_ObjectHideFlags: 0
@@ -522,9 +512,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animalPrefabs:
-  - {fileID: 114784398}
-  - {fileID: 1905710282}
-  - {fileID: 429222094}
+  - {fileID: 3901344104834017254, guid: dae9cf68b8530f843b977e0b3eaaaa1c, type: 3}
+  - {fileID: 866378991797977343, guid: 2f28d0b399b079b4894771c4f5bfd172, type: 3}
+  - {fileID: 1438005526601618311, guid: 394b85fd613cc87478693ae9f5470e4c, type: 3}
 --- !u!1 &992285705
 GameObject:
   m_ObjectHideFlags: 0
@@ -778,11 +768,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f3f69bcf5a1514c458ed5c9b96f28e34, type: 3}
---- !u!1 &1905710282 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3901344104834017254, guid: dae9cf68b8530f843b977e0b3eaaaa1c, type: 3}
-  m_PrefabInstance: {fileID: 3901344106703811372}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &239473018562655287
 PrefabInstance:
   m_ObjectHideFlags: 0
